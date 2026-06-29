@@ -30,9 +30,9 @@ The backend follows a **layered architecture**:
 * Config → Database connection setup
 
 This follows:
-✔ Separation of concerns
-✔ Modular structure
-✔ Clean API design principles
+ Separation of concerns
+ Modular structure
+ Clean API design principles
 
 ---
 
